@@ -631,13 +631,13 @@ Repo:
 
 # 16. Holberton #advanced
 
-Write a Brainf*ck script that prints Holberton, followed by a new line.
+Write a Brainf*ck script that prints School, followed by a new line.
 
     All your Brainf*ck files should be stored inside the bf sub directory
     You can install the bf interpreter to test your code: sudo apt-get install bf
     Read: Brainf*ck
 
-julien@ubuntu:~/monty/bf$ bf 1000-holberton.bf 
+julien@ubuntu:~/monty/bf$ bf 1000-school.bf 
 Holberton
 julien@ubuntu:~/monty/bf$ 
 
@@ -645,7 +645,7 @@ Repo:
 
     GitHub repository: monty
     Directory: bf
-    File: 1000-holberton.bf
+    File: 1000-school.bf
 
 
 # 17. Add two digits #advanced
